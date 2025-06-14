@@ -1,1 +1,10 @@
-
+{
+  "identity": "1.21.8201.0",
+  "packageFamilyName": "Microsoft.MinecraftUWP_8wekyb3d8bbwe",
+  "download": {
+    "appx": "http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8c596763-35d5-4403-99e2-fd3dd68c0c54?P1=1749954062&P2=404&P3=2&P4=EdRq7ynEgEJEZM4%2fPjmfDSTaN4abdRld22b9MTsPdgTuDOVsjrj%2fCpYpWvaXtmrCLpiA96eQuQ32Xk9GFERTIw%3d%3d",
+    "dependencies": [
+      "https://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/[VCLibs_FILE_ID]?P1=...&P2=...&P3=...&P4=..." 
+    ]
+  }
+}
